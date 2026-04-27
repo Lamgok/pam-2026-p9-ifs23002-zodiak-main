@@ -103,7 +103,7 @@ class _MotivationScreenState extends State<MotivationScreen> {
       floatingActionButton: FloatingActionButton(
         onPressed: showZodiacDialog,
         backgroundColor: const Color(0xFF8B0000),
-        child: const Icon(Icons.Bedtime, color: Color(0xFFD4AF37)),
+        child: const Icon(Icons.auto_awesome, color: Color(0xFFD4AF37)),
       ),
       body: Stack(
         children: [
